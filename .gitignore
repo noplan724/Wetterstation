@@ -1,0 +1,14 @@
+# --- Python Müll ---
+__pycache__/
+*.pyc
+venv/
+
+# --- Sensible Daten ---
+history_*.json
+
+# --- Mac OS Müll ---
+.DS_Store
+._*
+
+# --- Schriftart (Lizenzschutz) ---
+static/fonts/*.ttf
