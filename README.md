@@ -35,11 +35,9 @@ wetterstation/
 
 🚀 Installation
 1. Repository klonen & vorbereiten
-
 Lade den Code auf deinen Server/Pi.
 
 2. Schriftart besorgen
-
 Aus rechtlichen Gründen ist die Schriftart nicht enthalten.
 
 Lade ChicagoFLF hier herunter: 1001freefonts.com/de/chicago.font
@@ -51,7 +49,6 @@ Erstelle den Ordner static/fonts/ in deinem Projekt.
 Kopiere die Datei ChicagoFLF.ttf dort hinein.
 
 3. Umgebung einrichten (Empfohlen)
-
 Es wird empfohlen, eine virtuelle Umgebung zu nutzen:
 
 ```text
@@ -88,9 +85,9 @@ Die Parameter:
 
 owm: Dein OpenWeatherMap API Key (Kostenlos auf openweathermap.org erstellen).
 
-lat: Die Breitengrad-Koordinate deines Ortes (z.B. 53.16).
+lat: Die Breitengrad-Koordinate deines Ortes (z.B. 52.52).
 
-lon: Die Längengrad-Koordinate deines Ortes (z.B. 8.68).
+lon: Die Längengrad-Koordinate deines Ortes (z.B. 13.40).
 
 sensor (Optional): Die ID eines Feinstaubsensors von maps.sensor.community (z.B. 12345).
 
