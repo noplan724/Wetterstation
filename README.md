@@ -40,8 +40,10 @@ Lade den Code auf deinen Server/Pi.
 2. Schriftart besorgen
 Aus rechtlichen Gründen ist die Schriftart nicht enthalten.
 
-Lade ChicagoFLF hier herunter: 1001freefonts.com/de/chicago.font
-
+Lade ChicagoFLF hier herunter: 
+```
+https://www.1001freefonts.com/de/chicago.font
+```
 Entpacke die ZIP-Datei.
 
 Erstelle den Ordner static/fonts/ in deinem Projekt.
