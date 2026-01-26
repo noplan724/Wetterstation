@@ -70,9 +70,7 @@ pip install flask requests
 Starte den Server mit folgendem Befehl:
 
 ```text
-
 python3 app.py
-
 ```
 
 Der Server läuft nun standardmäßig auf Port 5000. (Wenn du die Konsole schließt, stoppt der Server. Für Dauerbetrieb nutze systemd oder screen.)
