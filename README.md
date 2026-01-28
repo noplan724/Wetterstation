@@ -98,6 +98,17 @@ Ersetze die Platzhalter durch deine echten Werte (Beispielort: Mitte von Deutsch
 
 http://192.168.178.50:5000/?owm=dein_langer_api_key&lat=50.0&lon=10.0&sensor=12345
 
+🖥️ Browser & Kiosk Modus
+Für die korrekte Darstellung wird Firefox dringend empfohlen. In Chrome oder Chromium kann es zu unscharfen Schriften oder Darstellungsfehlern kommen.
+
+Firefox auf Raspberry Pi / Debian installieren:
+```
+sudo apt update
+sudo apt install firefox-esr
+```
+Vollbild nutzen: Öffne die URL in Firefox und drücke F11, um in den Vollbildmodus zu wechseln und die Browserleisten auszublenden.
+
+
 ⚖️ Lizenz
 Der Quellcode (Python/HTML) steht unter der MIT Lizenz. Die Schriftart "ChicagoFLF" unterliegt eigenen Lizenzbestimmungen und ist Eigentum des jeweiligen Urhebers.
 
