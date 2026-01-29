@@ -33,7 +33,7 @@ wetterstation/
 ```
 
 
-🚀 Installation
+## 🚀 Installation
 1. Repository klonen & vorbereiten
 Lade den Code auf deinen Server/Pi.
 
@@ -67,7 +67,7 @@ source venv/bin/activate
 pip install flask requests
 ```
 
-▶️ Starten
+## ▶️ Starten
 
 Starte den Server mit folgendem Befehl:
 
@@ -77,7 +77,7 @@ python3 app.py
 
 Der Server läuft nun standardmäßig auf Port 5000. (Wenn du die Konsole schließt, stoppt der Server. Für Dauerbetrieb nutze systemd oder screen.)
 
-🖥️ Nutzung & URL Parameter
+## 🖥️ Nutzung & URL Parameter
 Die Wetterstation wird komplett über die URL konfiguriert. So kannst du den Link an Freunde weitergeben, damit diese ihren Ort und ihren API-Key nutzen können.
 
 Aufbau der URL: http://DEINE-IP:5000/?owm=KEY&lat=LAT&lon=LON&sensor=ID
@@ -98,7 +98,7 @@ Ersetze die Platzhalter durch deine echten Werte (Beispielort: Mitte von Deutsch
 
 http://192.168.178.50:5000/?owm=dein_langer_api_key&lat=50.0&lon=10.0&sensor=12345
 
-🖥️ Browser & Kiosk Modus
+## 🖥️ Browser & Kiosk Modus
 Für die korrekte Darstellung wird Firefox dringend empfohlen. In Chrome oder Chromium kann es zu unscharfen Schriften oder Darstellungsfehlern kommen.
 
 Firefox auf Raspberry Pi / Debian installieren:
@@ -109,6 +109,6 @@ sudo apt install firefox-esr
 Vollbild nutzen: Öffne die URL in Firefox und drücke F11, um in den Vollbildmodus zu wechseln und die Browserleisten auszublenden.
 
 
-⚖️ Lizenz
+## ⚖️ Lizenz
 Der Quellcode (Python/HTML) steht unter der MIT Lizenz. Die Schriftart "ChicagoFLF" unterliegt eigenen Lizenzbestimmungen und ist Eigentum des jeweiligen Urhebers.
 
