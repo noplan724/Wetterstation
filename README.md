@@ -1,4 +1,4 @@
-# MacTiny Wetterstation 🌤️💾
+# Tiny Mac Wetterstation 🌤️💾
 
 ![MacTiny Screenshot](https://i.ibb.co/9mZ4Zf71/tinymac2.png)
 
