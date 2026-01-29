@@ -2,7 +2,7 @@
 
 ![MacTiny Screenshot](https://i.ibb.co/9mZ4Zf71/tinymac2.png)
 
-Eine Retro-Wetterstation im Stil des klassischen Macintosh OS (System 6/7). Entwickelt für Raspberry Pi (mit Hardware-PWM Support) oder jeden Linux-Server (Debian/Ubuntu/Proxmox).
+Eine Retro-Wetterstation im Stil des klassischen Macintosh OS (System 6/7). Läuft auf einem Raspberry Pi (mit Hardware-PWM Support) oder jeden Linux-Server (Debian/Ubuntu/Proxmox). Dieses Tool wurde ursprünglich für den Tiny Mac mit Raspberry Pi Zero (2) (https://www.instructables.com/Making-a-Tiny-Mac-From-a-Raspberry-Pi-Zero/) entwickelt, funktioniert aber auch auf jedem anderen Gerät im Webbrowser. 
 
 Die Station zeigt Wetterdaten von OpenWeatherMap und lokale Feinstaubwerte von Sensor.Community an.
 
